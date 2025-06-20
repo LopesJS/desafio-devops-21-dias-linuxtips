@@ -8,7 +8,6 @@ Durante 21 dias, com desafios diários, alternando entre teoria e prática, com 
 
 Uma oportunidade única de aprendizado e crescimento. 
 
-<<<<<<< HEAD
 [Desafio 1](./Dia-1/dia1.MD)
 <br>
 [Desafio 2](./Dia-2/dia2.MD)
@@ -17,8 +16,9 @@ Uma oportunidade única de aprendizado e crescimento.
 <br>
 [Desafio 4](./Dia-4/dia4.MD)
 
-=======
-[Desafio1](./Dia-1/dia1.MD)
->>>>>>> 347ff1c9cfc967b3a9ea5d0b2da3245c479a15a8
+
+
+
+<br>
 
 [Site do Desafio](https://linuxtips.io/desafio-semana-devops/)
